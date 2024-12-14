@@ -1,0 +1,78 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "KarelWintersky",
+      "name": "Karel Wintersky",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2164874?v=4",
+      "profile": "https://github.com/KarelWintersky",
+      "contributions": [
+        "code", "doc"
+      ]
+    },
+    {
+      "login": "turbopixel",
+      "name": "Nico",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/15839724?v=4",
+      "profile": "https://hemk.es/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hajro92",
+      "name": "Hajrudin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15570002?v=4",
+      "profile": "https://github.com/hajro92",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "conver",
+      "name": "conver",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6231022?v=4",
+      "profile": "https://github.com/Conver",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "louis123562",
+      "name": "louis123562",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/36068395?v=4",
+      "profile": "https://github.com/louis123562",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Criptos",
+      "name": "ANDRES TELLO",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/4574233?v=4",
+      "profile": "http://www.ifscore.info",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "zhangchenglin",
+      "name": "张成林",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/30773389?v=4",
+      "profile": "https://张成林.中国",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "PHPAuth",
+  "projectOwner": "PHPAuth",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
